@@ -23,6 +23,7 @@
   <string name="touchpad_long_press_summary">Удерживайте сенсорную панель для запуска приложения «Камера»</string>
   <string name="touchpad_double_tap_title">Двойное нажатие для съёмки</string>
   <string name="touchpad_double_tap_summary">В приложении «Камера» дважды нажмите на сенсорную панель, чтобы сделать снимок</string>
+
   <!-- Gesture shortcuts -->
   <string name="touchscreen_camera_gesture_title">Камера</string>
   <string name="touchscreen_camera_gesture_summary">Нарисуйте круг для запуска камеры</string>
@@ -33,6 +34,8 @@
     • Проведите двумя пальцами вверх для воспроизведения или паузы\n
     • Нарисуйте стрелку влево (\'&lt;\') для перехода к предыдущему треку\n
     • Нарисуйте стрелку вправо (\'&gt;\') для перехода к следующему треку</string>
+  <string name="gestures_dashboard_summary">Жесты для аппаратов OnePlus</string>
+
   <!-- O-Click settings -->
   <string name="oclick_connect_string">Подключить</string>
   <string name="oclick_disconnect_string">Отключить</string>
@@ -49,16 +52,20 @@
   <string name="oclick_disconnect_alert_summary">Сигнализировать, когда соединение с устройством потеряно</string>
   <string name="alert_category_title">Предупреждения</string>
   <string name="action_category_title">Действия</string>
+
   <!-- O-Click notification -->
   <string name="oclick_locator_notification_title">Поиск телефона O-Click</string>
   <string name="oclick_locator_notification_text">Воспроизводится звук локатора. Нажмите, чтобы отключить</string>
   <string name="oclick_notification_title_connected">Устройство O-Click подключено</string>
   <string name="oclick_notification_title_disconnected">Устройство O-Click отключено</string>
   <string name="oclick_notification_content_disconnected">Нажмите кнопку O-Click, чтобы повторно подключиться</string>
+
   <!-- Button settings -->
   <string name="button_panel_title">Дополнительные кнопки</string>
   <string name="button_swap_title">Поменять кнопки местами</string>
   <string name="button_swap_summary">Поменять местами кнопки «Обзор» и «Назад»</string>
+  <string name="buttons_dashboard_summary">Настройки слайдера уведомлений</string>
+
   <!-- Notification slider -->
   <string name="notification_slider_category_title">Переключатель уведомл.</string>
   <string name="notification_slider_selection_dialog_title">Действие</string>
@@ -69,4 +76,8 @@
   <string name="notification_slider_mode_alarms_only">Только будильник</string>
   <string name="notification_slider_mode_priority_only">Только важные</string>
   <string name="notification_slider_mode_none">Отключено</string>
+  <string name="notification_slider_mode_vibrate">Вибрация</string>
+  <string name="notification_slider_mode_ring">Звонок</string>
+  <string name="notification_slider_ignore_auto_title">Отключить во время автоматизации</string>
+  <string name="notification_slider_ignore_auto_summary">Игнорировать слайдер когда авто действие активировано</string>
 </resources>
